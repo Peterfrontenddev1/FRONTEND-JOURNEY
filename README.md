@@ -1,2 +1,3 @@
 # FRONTEND-JOURNEY
 THIS IS A DIARY OF MY FRONTEND DEVELOPMENTR JOURNEY
+I learnt html on freecodecamp.org yesterday.
